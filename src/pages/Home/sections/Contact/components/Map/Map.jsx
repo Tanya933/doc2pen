@@ -1,6 +1,6 @@
 import React from "react";
 import { MapContainer, TileLayer, Marker, Popup, useMap, LayersControl } from "react-leaflet";
-import "./map.scss";
+import "./Map.css";
 import { FiCrosshair } from "react-icons/fi";
 const position = [13.0827, 80.2707];
 
